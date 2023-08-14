@@ -9,7 +9,7 @@ entries:
     name: social-distancing
     type: application
     urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/rajani-test/social-distancing.tgz
+    - https://raw.githubusercontent.com/rajanirao91/helmchartsSample/main/social-distancing.tgz
     version: 0.1.0
   social-distancing-retail:
   - apiVersion: v2
@@ -20,7 +20,7 @@ entries:
     name: social-distancing-retail
     type: application
     urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/rajani-test/social-distancing-retail.tgz
+    - https://raw.githubusercontent.com/rajanirao91/helmchartsSample/main/social-distancing-retail.tgz
     version: 0.1.0
   stable-diffusion:
   - apiVersion: v2
@@ -31,7 +31,7 @@ entries:
     name: stable-diffusion
     type: application
     urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/rajani-test/stable-diffusion.tgz
+    - https://raw.githubusercontent.com/rajanirao91/helmchartsSample/main/stable-diffusion.tgz
     version: 0.1.0
   wireless-ready-itm:
   - apiVersion: v2
@@ -42,6 +42,6 @@ entries:
     name: wireless-ready-itm
     type: application
     urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/rajani-test/itm-https.tgz
+    - https://raw.githubusercontent.com/rajanirao91/helmchartsSample/main/itm-https.tgz
     version: 0.1.0
 generated: "2023-08-09T15:04:17.7416454+05:30"
