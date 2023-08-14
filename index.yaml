@@ -33,4 +33,15 @@ entries:
     urls:
     - https://raw.githubusercontent.com/rajanirao91/helmchartsSample/main/itm-https.tgz
     version: 0.1.0
+  stable-diffusion:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-08-09T15:04:17.7488627+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 4608707bb1661579cb277c99a724b63c4b2c910142976aac71ff7a6132fa5642
+    name: stable-diffusion
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/rajani-test/stable-diffusion.tgz
+    version: 0.1.0
 generated: "2023-08-14T15:29:34.5438892+05:30"
