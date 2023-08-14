@@ -1,1 +1,1 @@
-# helmchartsSample
+# helm-import
