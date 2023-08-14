@@ -3,7 +3,7 @@ entries:
   social-distancing:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-14T15:29:34.5503607+05:30"
+    created: "2023-08-14T22:31:57.3555919+05:30"
     description: A Helm chart for Kubernetes
     digest: 47c41e462cb757fd6d6ec36491e8add795c1491b47e40ca9a7ae480a4d63198e
     name: social-distancing
@@ -14,7 +14,7 @@ entries:
   social-distancing-retail:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-14T15:29:34.5476544+05:30"
+    created: "2023-08-14T22:31:57.3532854+05:30"
     description: A Helm chart for Kubernetes
     digest: 73e7c3ef8def95fc212ee24b152b43c6bb9b9512a45680929610cf5407f31b76
     name: social-distancing-retail
@@ -22,10 +22,21 @@ entries:
     urls:
     - https://raw.githubusercontent.com/rajanirao91/helmchartsSample/main/social-distancing-retail.tgz
     version: 0.1.0
+  stable-diffusion:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-08-14T22:31:57.3572655+05:30"
+    description: A Helm chart for Kubernetes
+    digest: fadf9f941a09ed3a4084500ae3cf849eba545a069a075c633bb73d925f69f992
+    name: stable-diffusion
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/rajanirao91/helmchartsSample/main/stable-diffusion-0.1.0.tgz
+    version: 0.1.0
   wireless-ready-itm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-14T15:29:34.54548+05:30"
+    created: "2023-08-14T22:31:57.350971+05:30"
     description: A Helm chart for Kubernetes
     digest: 02c689e05a547f85c9f665987ac11f7670fbfe4b0ab4f1c872e8c7ff4ee65e69
     name: wireless-ready-itm
@@ -33,15 +44,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/rajanirao91/helmchartsSample/main/itm-https.tgz
     version: 0.1.0
-  stable-diffusion:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-08-09T15:04:17.7488627+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 4608707bb1661579cb277c99a724b63c4b2c910142976aac71ff7a6132fa5642
-    name: stable-diffusion
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/rajani-test/stable-diffusion.tgz
-    version: 0.1.0
-generated: "2023-08-14T15:29:34.5438892+05:30"
+generated: "2023-08-14T22:31:57.3487474+05:30"
