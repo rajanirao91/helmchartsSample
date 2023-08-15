@@ -3,45 +3,45 @@ entries:
   social-distancing:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-15T11:03:40.8175903+05:30"
+    created: "2023-08-15T11:18:02.433765621+05:30"
     description: A Helm chart for Kubernetes
     digest: 47c41e462cb757fd6d6ec36491e8add795c1491b47e40ca9a7ae480a4d63198e
     name: social-distancing
     type: application
     urls:
-    - https://github.com/rajanirao91/helmchartsSample/blob/main/social-distancing.tgz
+    - https://raw.githubusercontent.com/rajanirao91/helmchartsSample/main/social-distancing.tgz
     version: 0.1.0
   social-distancing-retail:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-15T11:03:40.8149244+05:30"
+    created: "2023-08-15T11:18:02.432876351+05:30"
     description: A Helm chart for Kubernetes
     digest: 73e7c3ef8def95fc212ee24b152b43c6bb9b9512a45680929610cf5407f31b76
     name: social-distancing-retail
     type: application
     urls:
-    - https://github.com/rajanirao91/helmchartsSample/blob/main/social-distancing-retail.tgz
+    - https://raw.githubusercontent.com/rajanirao91/helmchartsSample/main/social-distancing-retail.tgz
     version: 0.1.0
   stable-diffusion:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-15T11:03:40.8192659+05:30"
+    created: "2023-08-15T11:18:02.434180856+05:30"
     description: A Helm chart for Kubernetes
-    digest: 96c8442e21254c9dcef4efce48f018b0f711d43594713094fb463e0812965fba
+    digest: dbbd88c321ba38e8fdf90c8de9615ecb408174e7533338a7176e6ce351b89c76
     name: stable-diffusion
     type: application
     urls:
-    - https://github.com/rajanirao91/helmchartsSample/blob/main/stable-diffusion-0.1.0.tgz
+    - https://raw.githubusercontent.com/rajanirao91/helmchartsSample/main/stable-diffusion-0.1.0.tgz
     version: 0.1.0
   wireless-ready-itm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-15T11:03:40.8122663+05:30"
+    created: "2023-08-15T11:18:02.431956067+05:30"
     description: A Helm chart for Kubernetes
     digest: 02c689e05a547f85c9f665987ac11f7670fbfe4b0ab4f1c872e8c7ff4ee65e69
     name: wireless-ready-itm
     type: application
     urls:
-    - https://github.com/rajanirao91/helmchartsSample/blob/main/itm-https.tgz
+    - https://raw.githubusercontent.com/rajanirao91/helmchartsSample/main/itm-https.tgz
     version: 0.1.0
-generated: "2023-08-15T11:03:40.8096034+05:30"
+generated: "2023-08-15T11:18:02.431155107+05:30"
