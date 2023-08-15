@@ -3,7 +3,7 @@ entries:
   social-distancing:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-15T11:28:07.063174231+05:30"
+    created: "2023-08-15T11:30:01.421583873+05:30"
     description: A Helm chart for Kubernetes
     digest: 47c41e462cb757fd6d6ec36491e8add795c1491b47e40ca9a7ae480a4d63198e
     name: social-distancing
@@ -14,7 +14,7 @@ entries:
   social-distancing-retail:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-15T11:28:07.062253149+05:30"
+    created: "2023-08-15T11:30:01.420697716+05:30"
     description: A Helm chart for Kubernetes
     digest: 73e7c3ef8def95fc212ee24b152b43c6bb9b9512a45680929610cf5407f31b76
     name: social-distancing-retail
@@ -22,21 +22,10 @@ entries:
     urls:
     - https://raw.githubusercontent.com/rajanirao91/helmchartsSample/main/social-distancing-retail.tgz
     version: 0.1.0
-  stable-diffusion:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-08-15T11:28:07.063596026+05:30"
-    description: A Helm chart for Kubernetes
-    digest: dbbd88c321ba38e8fdf90c8de9615ecb408174e7533338a7176e6ce351b89c76
-    name: stable-diffusion
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/rajanirao91/helmchartsSample/main/stable-diffusion-0.1.0.tgz
-    version: 0.1.0
   stable-diffusion-app:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-08-15T11:28:07.063780205+05:30"
+    created: "2023-08-15T11:30:01.421758422+05:30"
     description: A Helm chart for stable-diffusion-app
     digest: 9261a4b733c357477c5dc3b2c0cd965b3430a5cb90549bd5a10f8fabc5d5ff93
     name: stable-diffusion-app
@@ -47,7 +36,7 @@ entries:
   wireless-ready-itm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-15T11:28:07.061333199+05:30"
+    created: "2023-08-15T11:30:01.419775963+05:30"
     description: A Helm chart for Kubernetes
     digest: 02c689e05a547f85c9f665987ac11f7670fbfe4b0ab4f1c872e8c7ff4ee65e69
     name: wireless-ready-itm
@@ -55,4 +44,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/rajanirao91/helmchartsSample/main/itm-https.tgz
     version: 0.1.0
-generated: "2023-08-15T11:28:07.06047853+05:30"
+generated: "2023-08-15T11:30:01.418952779+05:30"
