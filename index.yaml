@@ -3,7 +3,7 @@ entries:
   social-distancing:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-15T11:51:57.094884799+05:30"
+    created: "2023-08-16T12:22:01.8482918+05:30"
     description: A Helm chart for Kubernetes
     digest: 47c41e462cb757fd6d6ec36491e8add795c1491b47e40ca9a7ae480a4d63198e
     name: social-distancing
@@ -14,7 +14,7 @@ entries:
   social-distancing-retail:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-15T11:51:57.094023763+05:30"
+    created: "2023-08-16T12:22:01.845702+05:30"
     description: A Helm chart for Kubernetes
     digest: 73e7c3ef8def95fc212ee24b152b43c6bb9b9512a45680929610cf5407f31b76
     name: social-distancing-retail
@@ -25,18 +25,18 @@ entries:
   stable-diffusion:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-15T11:51:57.095298549+05:30"
+    created: "2023-08-16T12:22:01.8494194+05:30"
     description: A Helm chart for Kubernetes
-    digest: 28cd75808a68d2e2f19a299d78cdb51ac8b27ff8be92738bdeb2f03ff8f7f09b
+    digest: 93de8adff736899b2b26d5b5afddfea10d35190a9d3aa9342c64b54b716ebc41
     name: stable-diffusion
     type: application
     urls:
-    - https://raw.githubusercontent.com/rajanirao91/helmchartsSample/main/stable-diffusion.tgz
+    - https://raw.githubusercontent.com/rajanirao91/helmchartsSample/main/stable-diffusion-mount.tgz
     version: 0.1.0
   wireless-ready-itm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-15T11:51:57.093116237+05:30"
+    created: "2023-08-16T12:22:01.8425157+05:30"
     description: A Helm chart for Kubernetes
     digest: 02c689e05a547f85c9f665987ac11f7670fbfe4b0ab4f1c872e8c7ff4ee65e69
     name: wireless-ready-itm
@@ -44,4 +44,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/rajanirao91/helmchartsSample/main/itm-https.tgz
     version: 0.1.0
-generated: "2023-08-15T11:51:57.092307844+05:30"
+generated: "2023-08-16T12:22:01.8359512+05:30"
