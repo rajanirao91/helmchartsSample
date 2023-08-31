@@ -3,7 +3,7 @@ entries:
   social-distancing:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-31T17:13:19.9813413+05:30"
+    created: "2023-08-31T17:27:04.6952752+05:30"
     description: A Helm chart for Kubernetes
     digest: 47c41e462cb757fd6d6ec36491e8add795c1491b47e40ca9a7ae480a4d63198e
     name: social-distancing
@@ -14,7 +14,7 @@ entries:
   social-distancing-retail:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-31T17:13:19.9780457+05:30"
+    created: "2023-08-31T17:27:04.6861789+05:30"
     description: A Helm chart for Kubernetes
     digest: 73e7c3ef8def95fc212ee24b152b43c6bb9b9512a45680929610cf5407f31b76
     name: social-distancing-retail
@@ -25,7 +25,7 @@ entries:
   stable-diffusion:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-31T17:13:19.9823478+05:30"
+    created: "2023-08-31T17:27:04.697388+05:30"
     description: A Helm chart for Kubernetes
     digest: 62d45af77d275203dab6ea5c96e919341c5b14232098bfc4ff68cfb6f18226f5
     name: stable-diffusion
@@ -36,7 +36,7 @@ entries:
   wireless-ready-itm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-31T17:13:19.9760455+05:30"
+    created: "2023-08-31T17:27:04.6824414+05:30"
     description: A Helm chart for Kubernetes
     digest: 02c689e05a547f85c9f665987ac11f7670fbfe4b0ab4f1c872e8c7ff4ee65e69
     name: wireless-ready-itm
@@ -47,12 +47,12 @@ entries:
   yolo-v8:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-31T17:13:19.9833483+05:30"
+    created: "2023-08-31T17:27:04.6990627+05:30"
     description: A Helm chart for Kubernetes
-    digest: 3c5b788c30984d8d64b37338e59213d2d10dcc3a12f7b7b4e85162eb53876e9f
+    digest: bcff86ce2fd605a892488957fe80a7e8cff550f03fdc0ddbd6d97c3e5a8972b8
     name: yolo-v8
     type: application
     urls:
     - https://raw.githubusercontent.com/rajanirao91/helmchartsSample/main/yolo-v8.tgz
     version: 0.1.0
-generated: "2023-08-31T17:13:19.9735334+05:30"
+generated: "2023-08-31T17:27:04.6792999+05:30"
